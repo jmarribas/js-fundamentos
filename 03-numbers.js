@@ -5,4 +5,4 @@ var negative = -2
 var sum = two + twoWithDecimals
 console.log(`La suma vale: ${sum}`)
 
-var complexCalculus = 2 +2 * 4
+var complexCalculus = 2 + 2 * 4

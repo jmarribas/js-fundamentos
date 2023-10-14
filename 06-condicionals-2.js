@@ -13,4 +13,4 @@ switch (price) {
     break
   default:
     travelPack = 'normal-pack'
-}{console.log(`El pa`)}
+}{ console.log(`El pa`) }
